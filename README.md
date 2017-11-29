@@ -4,9 +4,11 @@ collate daily learnings
 ### JS
 ---
 #### Module Pattern
+>The Module pattern was originally defined as a way to provide both private and public encapsulation for classes in conventional software engineering.
 
 - Object Literals
 - Closures, Access Modifiers
+- The Revealing Module Pattern
 
 >From a historical perspective, the Module pattern was originally developed by a number of people including **Richard Cornford** in 2003. It was later popularized by **Douglas Crockford** in his lectures. Another piece of trivia is that if you've ever played with Yahoo's YUI library, some of its features may appear quite familiar and the reason for this is that the Module pattern was a strong influence for YUI when creating their components.
 
@@ -84,4 +86,10 @@ var myModule = (function () {
   return module;
 })();
 ```
+### The Revealing Module Pattern
+
+
+### Decorator (Not yet understand)
+[Decorator-Java](https://www.youtube.com/watch?v=j40kRwSm4VE)
+
 
