@@ -70,7 +70,7 @@ myModule.publicMethod();
 ```
 ### Exports
 >This next variation allows us to declare globals without consuming them and could similarly support the concept of global imports
-```
+```javascript
 // Global module
 var myModule = (function () {
   // Module object
