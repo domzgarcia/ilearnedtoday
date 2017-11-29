@@ -99,7 +99,7 @@ var myModule = (function () {
 **BUT in Javascript**
 ---
 >The Decorator pattern isn't heavily tied to how objects are created but instead focuses on the problem of extending their functionality. Rather than just relying on prototypal inheritance, we work with a single base object and progressively add decorator objects which provide the additional capabilities. The idea is that rather than sub-classing, we add (decorate) properties or methods to a base object so it's a little more streamlined.
-```
+```javascript
 // The constructor to decorate
 function MacBook() {
   this.cost = function () { return 997; };
