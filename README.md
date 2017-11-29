@@ -89,7 +89,13 @@ var myModule = (function () {
 ### The Revealing Module Pattern
 
 
-### Decorator (Not yet understand)
+### Decorator (Not yet clear)
+>Decorators are a structural design pattern that aim to promote code re-use. Similar to Mixins, they can be considered another viable alternative to object sub-classing(in other programming language) 
+**BUT** in Javascript
+>The Decorator pattern isn't heavily tied to how objects are created but instead focuses on the problem of extending their functionality. Rather than just relying on prototypal inheritance, we work with a single base object and progressively add decorator objects which provide the additional capabilities. The idea is that rather than sub-classing, we add (decorate) properties or methods to a base object so it's a little more streamlined.
+
+
 [Decorator-Java](https://www.youtube.com/watch?v=j40kRwSm4VE)
+[Decorator-PHP]()
 
 
