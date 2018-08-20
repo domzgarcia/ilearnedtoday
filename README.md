@@ -1,6 +1,10 @@
 # ilearnedtoday
 collate daily learnings
 
+### Time
+---
+-[x] [dsada](dada.com)
+
 ### JS
 ---
 #### Module Pattern
