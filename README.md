@@ -1,6 +1,10 @@
 # ilearnedtoday
 collate daily learnings
 
+### PHP Master
+---
+* [Laralum](https://github.com/Laralum)
+
 ### GRAB FE guide
 ---
 * [github](https://github.com/grab/front-end-guide#hosting---amazon-s3)
