@@ -1,6 +1,10 @@
 # ilearnedtoday
 collate daily learnings
 
+### Node Master ALL IN
+---
+* [AwesomeNode](https://github.com/domzgarcia/awesome-nodejs)
+
 ### PHP Master
 ---
 * [LaravelNews](https://laravel-news.com/category/laravel-tutorials)
