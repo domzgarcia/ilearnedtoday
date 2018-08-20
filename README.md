@@ -3,8 +3,8 @@ collate daily learnings
 
 ### Time
 ---
-1 [dsada](dada.com)
-2 [dsada](dada.com)
+* [dsada](dada.com)
+* [dsada](dada.com)
 
 ### JS
 ---
