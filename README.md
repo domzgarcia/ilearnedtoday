@@ -3,6 +3,7 @@ collate daily learnings
 
 ### PHP Master
 ---
+* [LaravelNews](https://laravel-news.com/category/laravel-tutorials)
 * [Laralum](https://github.com/Laralum)
 
 ### GRAB FE guide
